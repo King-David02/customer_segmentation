@@ -1,0 +1,12 @@
+Description:
+A company that sells some of the product, and you want to know how well does the selling performance of the product. You have the data that can we analyze, but what kind of analysis that we can do? Well, we can segment customers based on their buying behavior on the market. Keep in mind that the data is really huge, and we can not analyze it using our bare eyes. We will use machine learning algorithms and the power of computing for it.
+
+This project will show you how to cluster customers on segments based on their behavior using the K-Means algorithm in Python. I hope that this project will help you on how to do customer segmentation step-by-step from preparing the data to cluster it.
+
+Acknowledgements:
+This dataset has been referred from UCI ML Repository: https://archive.ics.uci.edu/ml/datasets/online+retail
+
+Objective:
+Understand the Dataset & cleanup (if required).
+Build a clustering model to segment the customer-based similarity.
+Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.
