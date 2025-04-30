@@ -15,7 +15,7 @@ def get_requirements(file):
     
 
 setup(
-    name='Ajana King-David',
+    name='Customer Segmentation',
     version='0.01',
     description='Customer Segmentation Project',
     packages=find_packages(),
